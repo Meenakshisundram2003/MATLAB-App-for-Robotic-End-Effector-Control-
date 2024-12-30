@@ -1,1 +1,1 @@
-# MATLAB-App-for-Robotic-End-Effector-Control-
+# MATLAB App for Robotic End Effector Control

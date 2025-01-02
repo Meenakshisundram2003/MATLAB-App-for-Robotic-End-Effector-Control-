@@ -4,15 +4,14 @@ Developed a MATLAB-based application to automate complex computations for roboti
 # Plots
 
 # MANIPULATOR DYNAMICS
-![image](https://github.com/user-attachments/assets/99ab41f5-d683-4dcb-9cae-98856e55d3a8)
+![image](https://github.com/user-attachments/assets/02b2acee-a33f-4389-9773-1881ebd18a08)
 
-![image](https://github.com/user-attachments/assets/f352777d-1e0c-4cd3-b73d-cfcd7bfaade5)
-
-![image](https://github.com/user-attachments/assets/f39bdd62-ad43-4e4c-8097-388e00f89629)
 
 # PD CONTROL
-![image](https://github.com/user-attachments/assets/7b50559e-8bd5-4354-b168-86dd1e5dd92c)
+![image](https://github.com/user-attachments/assets/628f97ec-b1e9-4a5e-a2b7-599f203b6570)
+
 
 # IMPEDANCE CONTROL
-![image](https://github.com/user-attachments/assets/c99200d2-2ef5-4c0b-99ed-2f94b957a12e)
+![image](https://github.com/user-attachments/assets/07c91f7e-3481-4376-ac2e-5ddb6cfc5dcb)
+
 

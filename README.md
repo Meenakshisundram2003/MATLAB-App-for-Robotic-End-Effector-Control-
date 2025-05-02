@@ -23,6 +23,5 @@ Developed a MATLAB-based application to automate complex computations for roboti
 ### Impedance Control
 ![image](https://github.com/user-attachments/assets/07c91f7e-3481-4376-ac2e-5ddb6cfc5dcb)
 
-## App
-https://github.com/user-attachments/assets/3e5803c1-1831-44d1-b1a7-4e91765b03bf
+
 

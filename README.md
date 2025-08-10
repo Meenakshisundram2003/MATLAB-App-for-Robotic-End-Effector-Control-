@@ -11,7 +11,7 @@ Developed a MATLAB-based application to automate complex computations for roboti
 
 #### 2. Joint Position vs Time
 
-![image](https://github.com/user-attachments/assets/0aca12a5-61aa-4ddc-a3de-793b25737a57)
+<img src="https://github.com/user-attachments/assets/0aca12a5-61aa-4ddc-a3de-793b25737a57" width="400" height="400">
 
 #### 3. Joint velocity vs Time 
 

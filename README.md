@@ -13,15 +13,18 @@ Developed a MATLAB-based application to automate complex computations for roboti
 
 <img src="https://github.com/user-attachments/assets/0aca12a5-61aa-4ddc-a3de-793b25737a57" width="400" height="400">
 
-#### 3. Joint velocity vs Time 
+#### 3. Joint velocity vs Time
 
-![image](https://github.com/user-attachments/assets/3f665caf-4e26-4c3b-b997-686ce614b5b0)
+<img src="https://github.com/user-attachments/assets/3f665caf-4e26-4c3b-b997-686ce614b5b0" width="400" height="400">
 
 ### PD Control
-![image](https://github.com/user-attachments/assets/628f97ec-b1e9-4a5e-a2b7-599f203b6570)
+
+<img src="https://github.com/user-attachments/assets/628f97ec-b1e9-4a5e-a2b7-599f203b6570" width="400" height="400">
 
 ### Impedance Control
-![image](https://github.com/user-attachments/assets/07c91f7e-3481-4376-ac2e-5ddb6cfc5dcb)
+
+<img src="https://github.com/user-attachments/assets/07c91f7e-3481-4376-ac2e-5ddb6cfc5dcb" width="400" height="400">
+
 
 
 

@@ -7,7 +7,7 @@ Developed a MATLAB-based application to automate complex computations for roboti
 
 #### 1. 3D Manipulator Visualization
 
-<img src="https://github.com/user-attachments/assets/d45af0a3-e29c-4664-8beb-724e32aa8004" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/d45af0a3-e29c-4664-8beb-724e32aa8004" width="400" height="400">
 
 #### 2. Joint Position vs Time
 

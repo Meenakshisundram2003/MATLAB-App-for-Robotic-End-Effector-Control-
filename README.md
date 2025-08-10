@@ -1,5 +1,5 @@
 # MATLAB App for Robotic End Effector Control
-Developed a MATLAB-based application to automate complex computations for robotic manipulator dynamics, PD control, and impedance control. Implemented dynamic simulations for robotic end-effector behavior and visualized results, including joint velocity, joint position, and 3D manipulator motion. Ensured accurate evaluation and control by integrating Proportional-Derivative (PD) and Impedance control strategies for enhanced end-effector performance. Addressed challenges in manual computations, minimizing risks of errors and streamlining the modeling and control process for robotic systems.
+Developed a MATLAB-based App to automate complex computations for robotic manipulator dynamics, PD control, and impedance control. Implemented dynamic simulations for robotic end-effector behavior and visualized results, including joint velocity, joint position, and 3D manipulator motion. Ensured accurate evaluation and control by integrating Proportional-Derivative (PD) and Impedance control strategies for enhanced end-effector performance. Addressed challenges in manual computations, minimizing risks of errors and streamlining the modeling and control process for robotic systems.
 
 ## Plots
 
